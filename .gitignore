@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Images (if not needed in repo)
+*.jpg
+*.png
+*.jpeg
+
+# Large data files
+*.npy
+*.pkl
+
+# Dataset folder
+DataSet/
+
+# OS generated files
+.DS_Store
+Thumbs.db
